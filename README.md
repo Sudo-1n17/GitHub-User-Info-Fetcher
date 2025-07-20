@@ -31,11 +31,7 @@ Example:
 - `main.go`: The main file that sends HTTP requests to the GitHub API and processes the data.
 - Uses `net/http` package to send requests.
 - Uses `encoding/json` package to decode JSON data into Go structs.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+  
 ---
 
 If you have any questions or suggestions, feel free to reach out! 😊
