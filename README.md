@@ -1,3 +1,4 @@
+<img width="622" height="229" alt="image" src="https://github.com/user-attachments/assets/0b403fd0-9c5c-4c56-80b6-0a34f1bf8839" />
 
 # GitHub User Info Fetcher
 
