@@ -19,7 +19,7 @@ A simple Go program that fetches and displays GitHub user information using the 
 
 Example:
 
-    go run main.go torvalds
+    go run main.go sudo-1n17
 
 ## Requirements
 
